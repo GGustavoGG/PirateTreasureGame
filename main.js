@@ -1,0 +1,7 @@
+function pirata(){
+    
+}
+
+function pirateTreasure(){
+
+}
