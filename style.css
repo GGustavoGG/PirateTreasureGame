@@ -5,13 +5,15 @@ body{
     justify-content: center;
     align-content: center;
     height: 100vh;
+    margin: 0;
+    padding: 0;
 }
 
 table td{
     border: 5px solid rgb(146, 248, 160);
     border-radius: 20px;
-    height: 70px;
-    width: 70px;
+    height: 5.5em;
+    width: 5.5em;
 }
 
 table{
@@ -30,6 +32,6 @@ table tr td{
 }
 
 img{
-    height: 65px;
-    width: 65px;
+    height: 5em;
+    width: 5em;
 }
